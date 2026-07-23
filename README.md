@@ -17,4 +17,4 @@ I read every issue and will respond as soon as I can.
 ## Privacy
 
 The app's privacy policy is available here:
-https://andretmarques.github.io/ultimate-tictactoe-privacy/
+https://andretmarques.github.io/ultimate-tictactoe-support/
